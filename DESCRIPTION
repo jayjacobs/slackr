@@ -16,6 +16,7 @@ Description: Slackr contains functions that make it possible to
 URL: http://github.com/hrbrmstr/slackr
 BugReports: https://github.com/hrbrmstr/slackr/issues
 License: MIT + file LICENSE
+LazyData: TRUE
 Suggests:
     testthat
 Depends:
